@@ -11,7 +11,7 @@
 
 </div>
 
-![头像](image/file.png)
+![头像](./img/file.png)
 
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=🍊.
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Welcome to 🍊's Github.
