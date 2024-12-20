@@ -11,5 +11,5 @@
 ![](https://img.shields.io/badge/AI-purple)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainNight11&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RainNight11&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainNight11&langs_count=6&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RainNight11&layout=compact&langs_count=6&theme=tokyonight)
