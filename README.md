@@ -38,7 +38,7 @@
 
 ## <img src="img/icons/projects.png" width="22" alt=""> Projects
 
-**VoicePrint**<br>
+🎙️ [**VoicePrint**](https://github.com/RainNight11/Voice)<br>
 Voice cloning &amp; speech synthesis from a few seconds of audio.<br>
 <sub>Flutter · Spring Boot · Python · CosyVoice &nbsp;·&nbsp; <a href="https://github.com/RainNight11/Voice">Code ↗</a></sub>
 
