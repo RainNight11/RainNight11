@@ -5,7 +5,7 @@
   <img src="img/header-light.svg" alt="Hi, I'm Orange — AI researcher exploring AIGC Detection, LLM Safety &amp; World Models." width="800">
 </picture>
 
-<img src="img/icons/education.png" width="18" alt=""> **Incoming M.S. @ BUPT** · 2027<br>
+<img src="img/icons/education.png" width="18" alt=""> **Incoming M.S. @ BUPT** · 2027–2030<br>
 <img src="img/icons/education.png" width="18" alt=""> **B.S. @ Jiangnan University** · 2023–2027
 
 <a href="https://orangecc7.github.io/"><img src="img/links/homepage.svg" alt="Homepage ↗" height="20"></a> <a href="https://scholar.google.com.hk/citations?user=-uFjG4EAAAAJ&amp;hl=en"><img src="img/links/scholar.svg" alt="Google Scholar ↗" height="20"></a> <a href="mailto:orange.zhangyc05@gmail.com"><img src="img/links/email.svg" alt="Email ↗" height="20"></a>
@@ -16,25 +16,25 @@
 
 [**RA-Det**](https://arxiv.org/abs/2603.01544)<br>
 **Towards Universal Detection of AI-Generated Images via Robustness Asymmetry**<br>
-<sub><img src="img/venues/icml-2026.svg" alt="ICML 2026" height="20"> &nbsp;·&nbsp; Third author &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2603.01544">Paper ↗</a></sub>
+<sub><img src="img/venues/icml-2026.svg" alt="ICML 2026" height="16" align="middle"> &nbsp;·&nbsp; Third author &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2603.01544">Paper ↗</a></sub>
 
 [**WDA-Det**](https://github.com/RainNight11/WDA-Det)<br>
 **Distribution-Aligned AI-Generated Image Detection via Wavelet Denoising**<br>
-<sub><img src="img/venues/prcv-2026.svg" alt="PRCV 2026" height="20"> &nbsp;·&nbsp; Second author &nbsp;·&nbsp; <a href="https://github.com/RainNight11/WDA-Det">Code ↗</a></sub>
+<sub><img src="img/venues/prcv-2026.svg" alt="PRCV 2026" height="16" align="middle"> &nbsp;·&nbsp; Second author &nbsp;·&nbsp; <a href="https://github.com/RainNight11/WDA-Det">Code ↗</a></sub>
 
 [**MambaGuard**](https://link.springer.com/chapter/10.1007/978-981-95-5699-1_25)<br>
 **A CLIP-Mamba Approach for OOD Generated Image Detection**<br>
-<sub><img src="img/venues/prcv-2025.svg" alt="PRCV 2025" height="20"> &nbsp;·&nbsp; Co-first author &nbsp;·&nbsp; <a href="https://link.springer.com/chapter/10.1007/978-981-95-5699-1_25">Paper ↗</a> &nbsp;·&nbsp; <a href="https://github.com/RainNight11/MambaGuard">Code ↗</a></sub>
+<sub><img src="img/venues/prcv-2025.svg" alt="PRCV 2025" height="16" align="middle"> &nbsp;·&nbsp; Co-first author &nbsp;·&nbsp; <a href="https://link.springer.com/chapter/10.1007/978-981-95-5699-1_25">Paper ↗</a> &nbsp;·&nbsp; <a href="https://github.com/RainNight11/MambaGuard">Code ↗</a></sub>
 
 ### <img src="img/icons/llm-safety.svg" width="22" height="22" alt=""> LLM Safety
 
 [**CIRA**](https://arxiv.org/abs/2609.35002)<br>
 **Still There, No Longer Seen: Exposing Compression-Induced Risk in Large Vision-Language Models**<br>
-<sub><img src="img/venues/iclr-2027.svg" alt="ICLR 2027" height="20"> &nbsp;·&nbsp; Under review &nbsp;·&nbsp; Co-first author &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2609.35002">Paper ↗</a> &nbsp;·&nbsp; <a href="https://github.com/RainNight11/CIRA">Code ↗</a></sub>
+<sub><img src="img/venues/iclr-2027.svg" alt="ICLR 2027" height="16" align="middle"> &nbsp;·&nbsp; Under review &nbsp;·&nbsp; Co-first author &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2609.35002">Paper ↗</a> &nbsp;·&nbsp; <a href="https://github.com/RainNight11/CIRA">Code ↗</a></sub>
 
 [**OTS-Bench**](https://arxiv.org/abs/2603.03714)<br>
 **Revealing Order-to-Space Bias in Multimodal Image and Video Generation**<br>
-<sub><img src="img/venues/aaai-2027.svg" alt="AAAI 2027" height="20"> &nbsp;·&nbsp; Under review &nbsp;·&nbsp; Co-first author &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2603.03714">Paper ↗</a></sub>
+<sub><img src="img/venues/aaai-2027.svg" alt="AAAI 2027" height="16" align="middle"> &nbsp;·&nbsp; Under review &nbsp;·&nbsp; Co-first author &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2603.03714">Paper ↗</a></sub>
 
 ## <img src="img/icons/projects.png" width="22" alt=""> Projects
 
