@@ -22,7 +22,7 @@ I work on **AIGC detection** and **LLM safety**. Currently exploring **world mod
 ### LLM Safety
 
 - 🛡️ **[Still There, No Longer Seen: Exposing Compression-Induced Risk in Large Vision-Language Models](https://arxiv.org/abs/2609.35002)**<br>
-  <sub><b>ICLR submission · Under review</b> &nbsp;·&nbsp; Co-first author &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2609.35002">Paper</a> / <a href="https://github.com/RainNight11/CIRA">Code</a></sub>
+  <sub><b>ICLR 2027 · Under review</b> &nbsp;·&nbsp; Co-first author &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2609.35002">Paper</a> / <a href="https://github.com/RainNight11/CIRA">Code</a></sub>
 
 ## Projects
 
