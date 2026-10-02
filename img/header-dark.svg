@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="126" viewBox="0 0 800 126" role="img" aria-labelledby="title desc">
+<title id="title">Hi, I'm RainNight11</title>
+<desc id="desc">An AI researcher, with a small smiling orange mascot.</desc>
+<text x="0" y="18" fill="#8b949e" font-family="monospace" font-size="12">RainNight11 / README.md</text>
+<text x="0" y="70" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="40" letter-spacing="-1.2">Hi, I'm <tspan fill="#ffa657">RainNight11</tspan></text>
+<text x="1" y="99" fill="#8b949e" font-family="monospace" font-size="13">AI researcher. Always curious.</text>
+<g transform="translate(735 64)">
+ <path d="M-1-30 C-4-46 5-48 8-48" fill="none" stroke="#677b45" stroke-width="3.5" stroke-linecap="round"/>
+ <path d="M2-35 C5-53 25-52 31-46 C22-34 9-30 2-35Z" fill="#7fab65"/>
+ <path d="M3-35 C11-41 19-45 26-46" fill="none" stroke="#507944" stroke-width="1.5"/>
+ <path d="M-34 1 C-36-19-21-32-4-30 C1-29 3-29 8-30 C28-33 39-15 35 6 C31 29 15 38-3 35 C-24 35-35 21-34 1Z" fill="#ffad54"/>
+ <path d="M-26-10 C-23-19-16-23-10-23" fill="none" stroke="#ffcf8c" stroke-width="4" stroke-linecap="round"/>
+ <g fill="none" stroke="#493524" stroke-width="2.6">
+  <rect x="-24" y="-4" width="19" height="15" rx="5"/>
+  <rect x="5" y="-4" width="19" height="15" rx="5"/>
+  <path d="M-5 1 Q0-2 5 1 M-29-1 L-24 1 M24 1 L29-1"/>
+ </g>
+ <g fill="#493524"><circle cx="-14" cy="3" r="2"/><circle cx="14" cy="3" r="2"/></g>
+ <path d="M-5 19 Q0 24 6 19" fill="none" stroke="#493524" stroke-width="2.2" stroke-linecap="round"/>
+ <g fill="#eb8645"><ellipse cx="-23" cy="14" rx="4" ry="2"/><ellipse cx="23" cy="14" rx="4" ry="2"/></g>
+</g>
+<path d="M0 125 H800" stroke="#30363d"/>
+</svg>
