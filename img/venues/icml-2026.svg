@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="20" viewBox="0 0 90 20" role="img" aria-labelledby="title">
+<title id="title">ICML 2026</title>
+<defs><clipPath id="rounded"><rect width="90" height="20" rx="2"/></clipPath></defs>
+<g clip-path="url(#rounded)"><rect width="48" height="20" fill="#555"/><rect x="48" width="42" height="20" fill="#FF7A1A"/></g>
+<g font-family="Verdana, Arial, sans-serif" font-size="11" text-anchor="middle"><text x="24" y="14" fill="#FFFFFF">ICML</text><text x="69" y="14" fill="#1F2328">2026</text></g>
+</svg>
