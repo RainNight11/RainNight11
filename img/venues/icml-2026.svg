@@ -1,6 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="72" height="12" viewBox="0 0 72 12" role="img" aria-labelledby="title">
-<title id="title">ICML 2026</title>
-<defs><clipPath id="rounded"><rect width="72" height="12" rx="1.5"/></clipPath></defs>
-<g clip-path="url(#rounded)"><rect width="42" height="12" fill="#555"/><rect x="42" width="30" height="12" fill="#FF7A1A"/></g>
-<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle"><text x="21" y="10" fill="#FFFFFF">ICML</text><text x="57" y="10" fill="#1F2328">2026</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="18" viewBox="0 0 80 18" role="img" aria-labelledby="title">
+  <title id="title">ICML 2026</title>
+  <!-- Canvas: 80 x 18. Visible badge: 80 x 14. -->
+  <!-- Change the README image height to scale the entire badge. -->
+  <!-- Change translate Y below to move the whole badge; +1 moves it down 1px. Keep Y between 0 and 4 to avoid clipping. -->
+  <g id="badge-position" transform="translate(0 2)">
+    <defs>
+      <clipPath id="rounded"><rect width="80" height="14" rx="1.5"/></clipPath>
+    </defs>
+    <g clip-path="url(#rounded)">
+      <rect width="44" height="14" fill="#555"/>
+      <rect x="44" width="36" height="14" fill="#FF7A1A"/>
+    </g>
+    <!-- font-size changes the lettering; text y changes lettering position inside the badge. -->
+    <g id="badge-text" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">
+      <text x="22" y="11" fill="#FFFFFF">ICML</text>
+      <text x="62" y="11" fill="#1F2328">2026</text>
+    </g>
+  </g>
 </svg>

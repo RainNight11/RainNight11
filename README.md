@@ -16,25 +16,25 @@
 
 [**RA-Det**](https://arxiv.org/abs/2603.01544)<br>
 **Towards Universal Detection of AI-Generated Images via Robustness Asymmetry**<br>
-<img src="img/venues/icml-2026.svg" alt="ICML 2026" height="12"> &nbsp;·&nbsp; Third author &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2603.01544">Paper ↗</a>
+<sub><img src="img/venues/icml-2026.svg" alt="ICML 2026" height="18"></sub> &nbsp;·&nbsp; Third author &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2603.01544">Paper ↗</a>
 
 [**WDA-Det**](https://github.com/RainNight11/WDA-Det)<br>
 **Distribution-Aligned AI-Generated Image Detection via Wavelet Denoising**<br>
-<img src="img/venues/prcv-2026.svg" alt="PRCV 2026" height="12"> &nbsp;·&nbsp; Second author &nbsp;·&nbsp; <a href="https://github.com/RainNight11/WDA-Det">Code ↗</a>
+<sub><img src="img/venues/prcv-2026.svg" alt="PRCV 2026" height="18"></sub> &nbsp;·&nbsp; Second author &nbsp;·&nbsp; <a href="https://github.com/RainNight11/WDA-Det">Code ↗</a>
 
 [**MambaGuard**](https://link.springer.com/chapter/10.1007/978-981-95-5699-1_25)<br>
 **A CLIP-Mamba Approach for OOD Generated Image Detection**<br>
-<img src="img/venues/prcv-2025.svg" alt="PRCV 2025" height="12"> &nbsp;·&nbsp; Co-first author &nbsp;·&nbsp; <a href="https://link.springer.com/chapter/10.1007/978-981-95-5699-1_25">Paper ↗</a> &nbsp;·&nbsp; <a href="https://github.com/RainNight11/MambaGuard">Code ↗</a>
+<sub><img src="img/venues/prcv-2025.svg" alt="PRCV 2025" height="18"></sub> &nbsp;·&nbsp; Co-first author &nbsp;·&nbsp; <a href="https://link.springer.com/chapter/10.1007/978-981-95-5699-1_25">Paper ↗</a> &nbsp;·&nbsp; <a href="https://github.com/RainNight11/MambaGuard">Code ↗</a>
 
 ### <img src="img/icons/llm-safety.svg" width="22" height="22" alt=""> LLM Safety
 
 [**CIRA**](https://arxiv.org/abs/2609.35002)<br>
 **Still There, No Longer Seen: Exposing Compression-Induced Risk in Large Vision-Language Models**<br>
-<img src="img/venues/iclr-2027.svg" alt="ICLR 2027" height="12"> &nbsp;·&nbsp; Under review &nbsp;·&nbsp; Co-first author &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2609.35002">Paper ↗</a> &nbsp;·&nbsp; <a href="https://github.com/RainNight11/CIRA">Code ↗</a>
+<sub><img src="img/venues/iclr-2027.svg" alt="ICLR 2027" height="18"></sub> &nbsp;·&nbsp; Under review &nbsp;·&nbsp; Co-first author &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2609.35002">Paper ↗</a> &nbsp;·&nbsp; <a href="https://github.com/RainNight11/CIRA">Code ↗</a>
 
 [**OTS-Bench**](https://arxiv.org/abs/2603.03714)<br>
 **Revealing Order-to-Space Bias in Multimodal Image and Video Generation**<br>
-<img src="img/venues/aaai-2027.svg" alt="AAAI 2027" height="12"> &nbsp;·&nbsp; Under review &nbsp;·&nbsp; Co-first author &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2603.03714">Paper ↗</a>
+<sub><img src="img/venues/aaai-2027.svg" alt="AAAI 2027" height="18"></sub> &nbsp;·&nbsp; Under review &nbsp;·&nbsp; Co-first author &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2603.03714">Paper ↗</a>
 
 ## <img src="img/icons/projects.png" width="22" alt=""> Projects
 
