@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="img/header-dark-compact.svg">
   <source media="(max-width: 600px)" srcset="img/header-light-compact.svg">
   <source media="(prefers-color-scheme: dark)" srcset="img/header-dark.svg">
-  <img src="img/header-light.svg" alt="Hi, I'm Orange — AI researcher exploring AIGC Detection, LLM Safety &amp; World Models." width="800">
+  <img src="img/header-light.svg" alt="Hi, I'm Orange — AI researcher exploring AIGC Detection, LLM Safety &amp; World Models.">
 </picture>
 
 <img src="img/icons/education.png" width="18" alt=""> **Incoming M.S. @ BUPT** · 2027–2030<br>
